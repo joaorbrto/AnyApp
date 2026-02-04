@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests-primary.dia",
+    "emit-module-dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests-primary-emit-module.dia",
+    "pch" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests-primary.swiftdeps"
+  },
+  "/Users/joao/Desktop/AnyApp/AnyAppTests/AnyAppTests.swift" : {
+    "const-values" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests.swiftconstvalues",
+    "dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests.d",
+    "diagnostics" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests.dia",
+    "index-unit-output-path" : "/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests.o",
+    "llvm-bc" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests.bc",
+    "object" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests.o",
+    "swift-dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests.swiftdeps",
+    "swiftmodule" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyAppTests.build/Objects-normal/arm64/AnyAppTests~partial.swiftmodule"
+  }
+}

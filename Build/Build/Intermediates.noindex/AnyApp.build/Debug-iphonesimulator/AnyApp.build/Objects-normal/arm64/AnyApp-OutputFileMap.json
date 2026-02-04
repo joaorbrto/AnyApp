@@ -1,0 +1,49 @@
+{
+  "" : {
+    "diagnostics" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyApp-primary.dia",
+    "emit-module-dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyApp-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyApp-primary-emit-module.dia",
+    "pch" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyApp-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyApp-primary.swiftdeps"
+  },
+  "/Users/joao/Desktop/AnyApp/AnyApp/AnyAppApp.swift" : {
+    "const-values" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyAppApp.swiftconstvalues",
+    "dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyAppApp.d",
+    "diagnostics" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyAppApp.dia",
+    "index-unit-output-path" : "/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyAppApp.o",
+    "llvm-bc" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyAppApp.bc",
+    "object" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyAppApp.o",
+    "swift-dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyAppApp.swiftdeps",
+    "swiftmodule" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/AnyAppApp~partial.swiftmodule"
+  },
+  "/Users/joao/Desktop/AnyApp/AnyApp/ContentView.swift" : {
+    "const-values" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/joao/Desktop/AnyApp/AnyApp/Item.swift" : {
+    "const-values" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/Item.swiftconstvalues",
+    "dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/Item.d",
+    "diagnostics" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/Item.dia",
+    "index-unit-output-path" : "/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/Item.o",
+    "llvm-bc" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/Item.bc",
+    "object" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/Item.o",
+    "swift-dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/Item.swiftdeps",
+    "swiftmodule" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/Item~partial.swiftmodule"
+  },
+  "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/joao/Desktop/AnyApp/Build/Build/Intermediates.noindex/AnyApp.build/Debug-iphonesimulator/AnyApp.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
